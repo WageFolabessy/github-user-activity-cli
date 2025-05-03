@@ -1,6 +1,6 @@
 <?php
 
-define('USER_AGENT', 'MySimpleGithubActivityViewer/1.0 (php-script; github.com/toko-online-as-denim)');
+define('USER_AGENT', 'GithubActivityViewerCLI/1.0 (php-script; github.com/WageFolabessy/github-user-activity-cli)');
 define('API_BASE_URL', 'https://api.github.com/users/');
 
 function help(): void
